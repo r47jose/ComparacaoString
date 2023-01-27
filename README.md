@@ -1,0 +1,2 @@
+# ComparacaoString
+ ComparacaoString
